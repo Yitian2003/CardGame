@@ -1,0 +1,38 @@
+﻿body {
+}
+.title {
+    margin: 80px 0px 20px 0px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.card_hoder {
+    width: 100px;
+    height: 160px;
+    background-color: lightgreen;
+    border: #efefef solid 2px;
+    margin: 10px;
+    float: left;
+}
+.container {
+    width: 1200px;
+}
+.btn {
+    color: #ffffff;
+    background-color: #455fd3;
+    font-weight: 600;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 3px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.hide{
+    display:none;
+}
+.result {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
